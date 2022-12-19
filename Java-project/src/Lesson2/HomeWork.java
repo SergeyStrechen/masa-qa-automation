@@ -7,10 +7,10 @@ public class HomeWork {
         int e = 11, f = 13;
         long h = 15, i = 17;
         System.out.printf("(%s %s) (%s %s) (%s %s) (%s %s)\n", a,b,c,d,e,f,h,i);
-        float j = 19;
-        double k = 21.1;
-        boolean l = false;
-        System.out.printf("%s %s %s\n",j,k,l);
+        float j = 19, q = 20;
+        double k = 21.1, w = 23.3;
+        boolean l = false, t = true;
+        System.out.printf("%s %s %s %s %s %s\n",j,q,k,w,l,t);
         char m = 'n';
         char p = '\uf54e';
         System.out.printf("%s %s\n",m,p);
