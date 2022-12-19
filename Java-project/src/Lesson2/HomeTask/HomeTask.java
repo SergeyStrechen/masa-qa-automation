@@ -1,6 +1,6 @@
-package Lesson2;
+package Lesson2.HomeTask;
 
-public class HomeWork {
+public class HomeTask {
     public static void main(String[] args) {
         byte a = 5, b = 8;
         short c = 7, d = 9;
