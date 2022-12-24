@@ -24,7 +24,5 @@ public class Calculator {
             System.out.println(firstNumber + " : " + secondNumber + " = " + (firstNumber / secondNumber));
             System.out.println(firstNumber + " % " + secondNumber + " = " + (firstNumber % secondNumber));
 
-
-
         }
 }
