@@ -1,4 +1,4 @@
-package Lesson2.HomeTask;
+package lesson_02.HomeTask;
 
 public class HomeTask {
     public static void main(String[] args) {
