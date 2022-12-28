@@ -47,10 +47,9 @@ public class Months {
             case 12:
                 System.out.println("December");
                 break;
-            default: {
+            default:
                 System.out.println("Please enter the number 1-12.");
             }
-        }
 
     }
 }
