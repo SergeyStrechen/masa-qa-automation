@@ -15,9 +15,11 @@ public class UserSystem {
             System.out.println("Введите пароль");
             if (input.nextLine().equals(password)) {
                 System.out.println("Здравствуйте " + username + ", Вы вошли в систему.");
-            } else {
+            }
+            else {
                 System.out.println("Вы ввели неверный пароль!");
             }
+
         } else {
             System.out.println("такого пользователя не существует");
         }
