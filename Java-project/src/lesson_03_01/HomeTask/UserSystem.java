@@ -20,7 +20,8 @@ public class UserSystem {
                 System.out.println("Вы ввели неверный пароль!");
             }
 
-        } else {
+        }
+        else {
             System.out.println("такого пользователя не существует");
         }
     }
