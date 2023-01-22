@@ -11,7 +11,6 @@ public class CheckNumbers {
 
         System.out.println("Please enter your number... ");
         number = input.nextInt();
-        System.out.println(number % 2);
 
         if (number % 2 == 0) {
             System.out.println("Число " + number + " чётное.");
